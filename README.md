@@ -1,2 +1,4 @@
 # Kinny Technologies Inc
-TEST 12
+
+
+Github readme
